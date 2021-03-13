@@ -1,4 +1,4 @@
-# In-game Debug Console for Unity 3D (this repo adapted for New Input System, possibly in future official repo will also support New Iput System)
+# In-game Debug Console for Unity 3D (this repo adapted for New Input System, possibly in future official repo will also support New Input System)
 
 <img height="235" src="Images/1.png" alt="screenshot" /> <img height="235" src="Images/2.png" alt="screenshot2" />
 
